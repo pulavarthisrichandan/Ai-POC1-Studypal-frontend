@@ -168,6 +168,7 @@ cython_debug/
 # .idea/
 # .idea/
 # .idea/
+# added new line for checking the update
 
 # Ruff stuff:
 .ruff_cache/
