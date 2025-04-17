@@ -169,6 +169,7 @@ cython_debug/
 # .idea/
 # .idea/
 # added new line for checking the update
+#checking the commit function within the env in vs code
 
 # Ruff stuff:
 .ruff_cache/
